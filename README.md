@@ -6,8 +6,10 @@
   <img src="https://img.shields.io/badge/🌐%20%20country-China-blue"/>
 
   <hr />
-
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=cz-theng&count_private=true&show_icons=true"/>
+  -->
+  <img align="left" src='https://github-readme-stats.vercel.app/api?username=cz-theng&show_icons=true&theme=radical&count_private=true'/>
 </details>
 
 <!--
@@ -40,8 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src='https://github-readme-stats.vercel.app/api?username=cz-theng&show_icons=true&theme=radical&count_private=true'/>
-
+<!--
 <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=cz-theng&hide=tex%2B%2B,tex&layout=compact&theme=radical'/>
-
+-->
 
